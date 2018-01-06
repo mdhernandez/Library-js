@@ -1,0 +1,24 @@
+/* 
+Author: Michael David Hernandez
+Date: January 6th, 2018
+First Iteration
+*/
+
+#form-container{
+	display: none;
+}
+
+.lib-card{
+	max-width: 250px;
+	height: 500px;
+	max-height: 500px;
+	background-color: orange;
+	border-left: 50px green solid;
+	text-align: center;
+	padding-top: 15px;
+	margin-top: 15px;
+}
+
+#library{
+	display: none;
+}
